@@ -511,6 +511,9 @@ body {
 }
 
 @media(max-width: 457px) {
+    .list__item_text:last-child {
+        font-size: 24px;
+    }
 
     .item1{
         background: url(../img/пестициды.svg) no-repeat 172px 34px;
