@@ -559,6 +559,7 @@ body {
 
     .item1{
         background: url(../img/пестициды.svg) no-repeat center 34px; /*172px 34px*/
+
     }
 
     .item1:hover{
@@ -569,7 +570,6 @@ body {
 
     .item2{
         background: url(../img/культуры.svg) no-repeat center 45px; /*192px 45px*/
-        
     }
     
     .item2:hover{
@@ -589,11 +589,12 @@ body {
     }
 
     .item4{
-        background: url(../img/Frame\ 5706.svg) no-repeat center 24px; /*130px 24px*/
+        background: url(../img/Frame\ 5706.svg) no-repeat 130px 24px; /*130px 24px*/
+        font-size: 26px;
     }
     
     .item4:hover{
-        background: url(../img/формула.svg) no-repeat center 24px; /*116px 24px*/
+        background: url(../img/формула.svg) no-repeat 116px 24px; /*116px 24px*/
         background-color: 
         rgba(121, 200, 0, 0.4);
     }
